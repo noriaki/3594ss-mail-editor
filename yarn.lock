@@ -133,7 +133,7 @@
   dependencies:
     "@cspotcode/source-map-consumer" "0.8.0"
 
-"@cybozu/eslint-config@^14.0.2":
+"@cybozu/eslint-config@14.0.2":
   version "14.0.2"
   resolved "https://registry.yarnpkg.com/@cybozu/eslint-config/-/eslint-config-14.0.2.tgz#78a9a955a4a0234379544bbbea9d7a2fbf8e9732"
   integrity sha512-cG4vUpv4wAQvUY80E7T+RSYqfTUxIvBC9V1+AAquFHO2a4zUB6VeDkD1ks8AcvJ+lF9B4UuLwl/8p9llQmORHg==
@@ -2004,7 +2004,7 @@ tree-kill@^1.2.2:
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
-ts-node-dev@^1.1.8:
+ts-node-dev@1.1.8:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/ts-node-dev/-/ts-node-dev-1.1.8.tgz#95520d8ab9d45fffa854d6668e2f8f9286241066"
   integrity sha512-Q/m3vEwzYwLZKmV6/0VlFxcZzVV/xcgOt+Tx/VjaaRHyiBcFlV0541yrT09QjzzCxlDZ34OzKjrFAynlmtflEg==
@@ -2020,7 +2020,7 @@ ts-node-dev@^1.1.8:
     ts-node "^9.0.0"
     tsconfig "^7.0.0"
 
-ts-node@^10.1.0:
+ts-node@10.2.1:
   version "10.2.1"
   resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.2.1.tgz#4cc93bea0a7aba2179497e65bb08ddfc198b3ab5"
   integrity sha512-hCnyOyuGmD5wHleOQX6NIjJtYVIO8bPP8F2acWkB4W06wdlkgyvJtubO/I9NkI88hCFECbsEgoLc0VNkYmcSfw==

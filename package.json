@@ -18,12 +18,12 @@
   "homepage": "https://github.com/noriaki/3594ss-mail-editor#readme",
   "dependencies": {},
   "devDependencies": {
-    "@cybozu/eslint-config": "^14.0.2",
+    "@cybozu/eslint-config": "14.0.2",
     "@types/node": "16.3.0",
     "eslint": "7.30.0",
     "prettier": "2.3.2",
-    "ts-node": "^10.1.0",
-    "ts-node-dev": "^1.1.8",
+    "ts-node": "10.2.1",
+    "ts-node-dev": "1.1.8",
     "typescript": "4.3.5"
   }
 }
